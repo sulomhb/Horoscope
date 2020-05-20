@@ -1,12 +1,6 @@
 <?php
 
-/**
- * Åpner forbindelsen mot din database på elevweb.
- *
- * @param string $navn navnet på den som skal få stilt horoskopet
- * @param string $md fødselsmåned til den som skal få stilt horoskopet
- * @return string horoskop
- */
+
 function lag_horoskop($navn, $md) {
   switch ($md) {
     case 'januar':
