@@ -1,0 +1,23 @@
+body {
+  background-color: #FFE4E1;
+  color: #000000;
+  font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#hoved {
+	margin-left: 10%;
+	margin-right: 25%;
+}
+
+.float-left {
+  float: left;
+  margin-right: 20px;
+}
+
+#horoskoptekst {
+  font-weight: bold;
+}
+
+#KeplersTrigon{
+  float: left;
+}
